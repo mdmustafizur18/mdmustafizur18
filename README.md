@@ -1,6 +1,6 @@
 ![I am a Web Designer](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/463392104_1091336975853137_8168206297079582472_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=vslfGrJul94Q7kNvgHcdbpK&_nc_zt=23&_nc_ht=scontent.fdac157-1.fna&_nc_gid=AwKiiA9nz43CArrYPitLZx2&oh=00_AYDI8T98tFAttqeQIGlGT9OCEaFgWfesw_o7gpVq_3cWrw&oe=67141EB7)
 
-### Hi there 👋, I'm Md.Mustafizur Rahaman
+### Hi there 👋, My name is Md. Mustafizur Rahaman
 #### I am a Web Designer
 
 
@@ -26,8 +26,6 @@ Skills:  HTML / CSS/Website Designe/ SEO/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmustafizur18)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmustafizur18&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mdmustafizur18/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mdmustafizur18)  
 
