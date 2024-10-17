@@ -4,7 +4,7 @@
 #### I am a Web Designer
 
 
-As an expert in HTML, CSS, Website Design, and SEO, I offer premium web development services that blend sophisticated design with technical excellence. I craft visually captivating, highly responsive websites optimized for performance and search engine visibility. My expertise ensures your site looks stunning and ranks well, driving targeted traffic and business growth.
+As an expert in HTML, CSS, Website Design, and SEO, I offer premium web designe services that blend sophisticated design with technical excellence. I craft visually captivating, highly responsive websites optimized for performance and search engine visibility. My expertise ensures your site looks stunning and ranks well, driving targeted traffic and business growth.
 
 Skills:  HTML / CSS/Website Designe/ SEO/
 
