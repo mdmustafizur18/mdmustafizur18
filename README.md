@@ -1,7 +1,7 @@
-![I am a Web Designer](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/463392104_1091336975853137_8168206297079582472_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=vslfGrJul94Q7kNvgHcdbpK&_nc_zt=23&_nc_ht=scontent.fdac157-1.fna&_nc_gid=AwKiiA9nz43CArrYPitLZx2&oh=00_AYDI8T98tFAttqeQIGlGT9OCEaFgWfesw_o7gpVq_3cWrw&oe=67141EB7)
+![I am a Website Designer](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/463392104_1091336975853137_8168206297079582472_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=vslfGrJul94Q7kNvgHcdbpK&_nc_zt=23&_nc_ht=scontent.fdac157-1.fna&_nc_gid=AwKiiA9nz43CArrYPitLZx2&oh=00_AYDI8T98tFAttqeQIGlGT9OCEaFgWfesw_o7gpVq_3cWrw&oe=67141EB7)
 
 ### Hi there 👋, My name is Md. Mustafizur Rahaman
-#### I am a Web Designer
+#### I am a Website Designer
 
 
 As an expert in HTML, CSS, Website Design, and SEO, I offer premium web designe services that blend sophisticated design with technical excellence. I craft visually captivating, highly responsive websites optimized for performance and search engine visibility. My expertise ensures your site looks stunning and ranks well, driving targeted traffic and business growth.
